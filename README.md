@@ -44,7 +44,7 @@ Provides timeline visualization using scatter plots
 
 ### 4. Collision Risk Estimation
 
-Risk score considers:
+#### Risk score considers:
 
 Minimum distance
 
@@ -52,7 +52,7 @@ Relative velocity
 
 Exponential decay model for realistic risk weighting
 
-Displays:
+#### Displays:
 
 High-risk encounters
 
@@ -101,7 +101,7 @@ streamlit run app.py
 
 ## 📊 How Collision Risk is Calculated
 
-For each satellite pair:
+#### For each satellite pair:
 
 Orbit is propagated for 24 hours
 
@@ -109,7 +109,7 @@ Closest approach distance is found
 
 Relative velocity at that point is computed
 
-Risk score is assigned:
+#### Risk score is assigned:
 
 𝑅
 𝑖
