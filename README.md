@@ -116,43 +116,8 @@ Relative velocity at that point is computed
 𝑠
 𝑘
 =
-min
-⁡
-(
-1
-,
-  
-(
-1000
-/
-𝑑
-𝑚
-𝑖
-𝑛
-)
-×
-𝑒
-−
-(
-𝑣
-𝑟
-𝑒
-𝑙
-/
-8
-)
-)
-Risk=min(1,(1000/d
-min
-	​
 
-)×e
-−(v
-rel
-	​
-
-/8)
-)
+Risk=min(1,(1000/dmin)×e−(vrel/8))
 
 ### Risk levels:
 
